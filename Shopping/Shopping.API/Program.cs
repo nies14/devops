@@ -1,4 +1,4 @@
-namespace Shopping.Client;
+using Shopping.API;
 
 public class Program
 {
